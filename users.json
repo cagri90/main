@@ -1,0 +1,10 @@
+{
+  users:[
+    {
+           username:"test",
+           password:"test1234",
+           name:"Çağrı Taçyıldız",
+           img:"https://media-exp1.licdn.com/dms/image/C5603AQEEflQ6huNLYA/profile-displayphoto-shrink_200_200/0/1516921105716?e=1622073600&v=beta&t=jo_dc3HemQfPoByUaUl7TgsJE-_mM25Lr2IvxPrOTfo"
+     } 
+  ]
+}
